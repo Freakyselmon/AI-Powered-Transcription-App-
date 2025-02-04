@@ -10,6 +10,3 @@ It converts **audio/video files** into text instantly.
 ✅ Supports **MP3, WAV, MP4, MKV, AVI** files  
 ✅ Uses **Whisper AI model** for accurate speech-to-text conversion  
 ✅ Provides **downloadable** transcriptions in TXT & JSON formats  
-
-## 🔧 Installation  
-1. Clone the repository:  
